@@ -95,6 +95,7 @@ react-ai-chat-app/
 ├── package.json              # Project metadata and dependencies
 └── README.md                 # Project documentation
 ```
+---
 
 ## 🚀 Getting Started
 
@@ -111,51 +112,40 @@ react-ai-chat-app/
    Start the development server
 
    npm run dev
-🖼️ Screenshots
-You can add your screenshots in the screenshots/ folder and reference them here:
 
-💬 Chat + AI Composer
+---
 
-🌙 Dark Theme
+## 🖼️ Screenshots
 
-📞 Call Modal
+<img width="500" alt="Screenshot 2025-05-24 at 12 00 51" src="https://github.com/user-attachments/assets/2b345276-563a-4c7f-9701-2c5677c90ecb" />
+<img width="500" alt="Screenshot 2025-05-24 at 12 01 01" src="https://github.com/user-attachments/assets/3eef1be1-890e-4d52-9065-b47e198545e7" />
+<img width="500" alt="Screenshot 2025-05-24 at 12 01 08" src="https://github.com/user-attachments/assets/3e7414ea-e953-42ca-b150-12fe0ae94631" />
+<img width="500" alt="Screenshot 2025-05-24 at 12 01 15" src="https://github.com/user-attachments/assets/0bb7d5eb-4dd9-4d1e-bd0a-bd5fcf29d5ff" />
 
-🎥 Video Call Modal
+<img width="500" alt="Screenshot 2025-05-24 at 12 01 21" src="https://github.com/user-attachments/assets/3f19289a-6044-42be-86cf-89dc16ff9b4a" />
+<img width="500" alt="Screenshot 2025-05-24 at 12 01 25" src="https://github.com/user-attachments/assets/7734a5f9-6644-44b6-967b-95e07910e0b9" />
+<img width="500" alt="Screenshot 2025-05-24 at 12 01 33" src="https://github.com/user-attachments/assets/e69b3acc-c9b0-4ab4-a9e9-9518df3d1fb5" />
+<img width="500" alt="Screenshot 2025-05-24 at 12 01 55" src="https://github.com/user-attachments/assets/88abf45e-2e64-42d3-a430-2d201b29a616" />
 
-⚙️ Settings
+---
 
-🧠 AI Integration
-AI responses generated in real-time
-
-Typing animation simulates real interaction
-
-One-click to add the response to chat
-
-Fully customizable AI composer area
-
-📱 Responsiveness
-Breakpoints optimized for mobile/tablet/desktop
-
-Hide/show views smartly on smaller screens
-
-Smooth transitions and adaptive sizing
-
-📘 Available Scripts
+## 📘 Available Scripts
 npm run dev       # Start dev server
 npm run build     # Build for production
 npm run preview   # Preview production build
 
-⚒️ Customization
+---
+
+## ⚒️ Customization
 Change primary gradients and themes in tailwind.config.js
 
-Add more fonts and style options in SettingsModal.tsx
+---
 
-Extend ThemeContext.tsx for more global states
-
-🤝 Contribution
+## 🤝 Contribution
 Feel free to fork the project, open issues, or submit pull requests for improvements or features!
 
-🪪 License
+---
+## 🪪 License
 MIT License
 
 Made with ❤️ and a lot of gradients by Arti Chaudhary
